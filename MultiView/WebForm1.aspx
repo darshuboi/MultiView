@@ -198,9 +198,8 @@
   
                     </table>  
                 </asp:View>  
-            </asp:MultiView>  
-  
-  
+            </asp:MultiView>
+
         </div>  
     </form>  
    </body>
